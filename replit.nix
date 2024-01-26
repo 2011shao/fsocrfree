@@ -1,1 +1,4 @@
-replit.nix
+{ pkgs }: {
+  deps = [
+  ];
+}
